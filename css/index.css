@@ -1,0 +1,39 @@
+a {
+    text-decoration: none;
+    color: #1b1717;
+}
+
+.a:hover {
+    text-decoration: white;
+}
+
+body {
+    background-color: white;
+    font-family: "Medium", sans-serif;
+}
+
+img {
+    border-radius: 75px;
+    height: 13%;
+    width: 13%;
+}
+
+.link_container {
+    height: fit-content;
+    width: fit-content;
+}
+
+.link_container:hover {
+    height: fit-content;
+    width: fit-content;
+    background-color: rgb(15, 180, 187);
+}
+
+h1 {
+    color: #1b1717;
+    text-align: right;
+}
+
+p {
+    size: 16px;
+}
